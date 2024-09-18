@@ -1,0 +1,4 @@
+# .gitignore
+.env
+gen-ai/
+openaichat.py/
